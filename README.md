@@ -1,4 +1,4 @@
-# GAIAMC
+# GAI-AMC
 
 This repository hosts a demonstration of the case study as presented in the paper
   ```bash
