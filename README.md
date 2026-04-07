@@ -2,7 +2,7 @@
 
 This repository hosts a demonstration of the case study as presented in the paper
   ```bash
-     "Low-Altitude Economy Networking Security: Signal Detection and Classification Perspectives"
+     "Automatic Signal Detection and Classification for Physical Layer Security in Low-Altitude Wireless Networks"
 ```
 
 ## Cite Our Work
